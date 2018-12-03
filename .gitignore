@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+*.DS_Store
+*__pycache__/
+data/
+Cat_Dog_data/
+F_MNIST_data/
+checkpoint.pth
